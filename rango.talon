@@ -207,3 +207,6 @@ address in title off: user.rango_command_without_target("disableUrlInTitle")
 # Switch modes
 rango explicit:  user.rango_disable_direct_clicking()
 rango direct:  user.rango_enable_direct_clicking()
+
+key(f8): key("ctrl-shift-9")
+key(f7): key("ctrl-shift-3")

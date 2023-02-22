@@ -192,7 +192,7 @@ class Actions:
 @ctx.action_class("user")
 class UserActions:
     def rango_type_hotkey():
-        actions.key("ctrl-shift-insert")
+        actions.key("ctrl-shift-5")
 
     def rango_command_with_target(
         actionType: str,
